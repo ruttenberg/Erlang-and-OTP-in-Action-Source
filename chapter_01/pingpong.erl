@@ -2,6 +2,7 @@
 %% File: pingpong.erl
 
 %% JPR
+%% JPR2
 
 -module(pingpong).
 
